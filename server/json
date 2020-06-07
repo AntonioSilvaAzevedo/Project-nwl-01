@@ -1,0 +1,14 @@
+{
+	"name": "Mercado do seu zé",
+  "email": "antonioe.dev@gmail.com",
+  "whatsapp": "00000000",
+  "latitude": -12341241124,
+  "longitude": -3124424,
+  "city": "castilho",
+  "uf": "SP",
+  "items": [
+		1,
+		2,
+		6
+	]
+}
