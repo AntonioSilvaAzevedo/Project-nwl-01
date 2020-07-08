@@ -29,10 +29,6 @@ The <strong>Ecoleta</strong> is a Web application to help people find collection
 ## :fire: How to use:
 
 
-```sh
-  $ git clone https://github.com/vitorserrano/ecoleta.git
-```
-
  Running the Application:
 
 ```sh
